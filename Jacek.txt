@@ -1,1 +1,11 @@
 Jacek - nowy plik
+
+hej tu Szymon :)
+
+zmodyfikowa³ dominik
+modyfikacja MalecM
+<<<<<<< HEAD
+
+=======
+Lucyna
+>>>>>>> 0c3f01ca36241f63e37859638915bbb35ab7937d
