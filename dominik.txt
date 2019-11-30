@@ -1,2 +1,4 @@
 dominik branch
 piotrek zmienil
+...
+
